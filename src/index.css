@@ -1,0 +1,12 @@
+div{
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div>:nth-child(2){
+  color: rgb(53, 53, 53);
+}
+div :nth-child(3){
+  color: rgb(53, 53, 53);
+  width: 60vw;
+  margin: auto;
+}
